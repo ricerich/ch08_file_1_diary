@@ -9,3 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "ch08_file_1_diary"
 include ':app'
 include ':diary'
+include ':picture_viewer'
+include ':sd_card_file'

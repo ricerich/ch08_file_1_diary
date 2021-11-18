@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/diary" />
+            <option value="$PROJECT_DIR$/picture_viewer" />
+            <option value="$PROJECT_DIR$/sd_card_file" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
